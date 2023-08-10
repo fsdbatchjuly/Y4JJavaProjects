@@ -24,7 +24,7 @@ In your local systems
 git clone url (To get Remote repository to your local systems)
 git add *
 git commit -m "Commit message"
-git git push   
+git push   
 
 Optional command
 git status 
